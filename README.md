@@ -85,6 +85,6 @@ $ npm run start
 
 ## 📝 Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto ja está rodando em produção https://feedget-psi-three.vercel.app/
 
-<p align="center">Feito com 💜 por Leandro Azanniel</p>
+<p align="center">Feito com 💜 por Matheus Felix</p>
